@@ -2,6 +2,7 @@ package selection_sort;
 
 import java.util.Arrays;
 
+
 public class SelectionSort {
 
     static void selection_sort(int[] A) {
